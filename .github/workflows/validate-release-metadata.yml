@@ -1,6 +1,6 @@
 name: Validate Release Metadata
 
-on:
+on: 
   push:
     branches: [ "master", "main" ]
   pull_request:
